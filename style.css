@@ -25,7 +25,8 @@ ul.our-primary-menu li a {
 	font-weight: 500;
 }
 ul.our-primary-menu li a:hover{
-   
+   color: blue;
+   text-shadow: 1px 1px 2px #fff;
 }
 
 /* DropDown Menu  Css*/
